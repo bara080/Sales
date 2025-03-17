@@ -1,2 +1,0 @@
-# Sales
-Commercial Scheduling App
